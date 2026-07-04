@@ -51,72 +51,6 @@
 
 ---
 
-# 🚀 Building Intelligent Systems
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-## 🤖 AI
-
-LLMs
-
-RAG
-
-LangGraph
-
-CrewAI
-
-Agentic AI
-
-</td>
-
-<td width="33%" align="center">
-
-## ⚡ Backend
-
-FastAPI
-
-Python
-
-REST APIs
-
-SQLite
-
-Firebase
-
-</td>
-
-<td width="33%" align="center">
-
-## 💻 Frontend
-
-Next.js
-
-React
-
-TailwindCSS
-
-HTML
-
-CSS
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-> ### *"Turning AI ideas into production-ready intelligent systems."*
-
-</div>
-
-
-
 <!-- ======================================================== -->
 <!--                     ABOUT ME                             -->
 <!-- ======================================================== -->
@@ -467,64 +401,6 @@ const danyal = {
 
 ---
 
-# ⚡ AI Workflow
-
-```text
-Problem
-   │
-   ▼
-Data Collection
-   │
-   ▼
-Preprocessing
-   │
-   ▼
-Model Training
-   │
-   ▼
-Evaluation
-   │
-   ▼
-LLM Integration
-   │
-   ▼
-LangGraph Workflow
-   │
-   ▼
-FastAPI Backend
-   │
-   ▼
-Deployment
-```
-
----
-
-# 💡 Engineering Philosophy
-
-> **"Write code that solves problems, not code that only works."**
-
-> **"AI should augment human intelligence, not replace it."**
-
-> **"Keep learning. Keep building. Keep shipping."**
-
----
-
-<div align="center">
-
-### ⚙️ Turning Ideas into Intelligent Products ⚙️
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:0f172a&height=2"/>
-
-
-<!-- ======================================================== -->
-<!--                  FEATURED PROJECTS                       -->
-<!-- ======================================================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
-
-
 # 💼 Currently Building
 
 ```text
@@ -544,54 +420,6 @@ Deployment
 █████████████████░░░ 85%
 ```
 
-<!-- ======================================================== -->
-<!--                  GITHUB ANALYTICS                        -->
-<!-- ======================================================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-### 📈 GitHub Statistics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danyaldany&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyaldany&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🔥 GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=danyaldany&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 Contribution Graph
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=danyaldany&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=danyaldany&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
 ---
 
 <div align="center">
@@ -601,16 +429,5 @@ Deployment
 <img src="https://raw.githubusercontent.com/danyaldany/danyaldany/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 </div>
-
----
-
-<div align="center">
-
-## 💙 "Consistency beats intensity."
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:0f172a&height=2"/>
-
 
 
