@@ -343,3 +343,251 @@ const danyal = {
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:0f172a&height=2"/>
+
+<!-- ======================================================== -->
+<!--                     TECH STACK                           -->
+<!-- ======================================================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
+</p>
+
+---
+
+### AI • Machine Learning • LLM
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangGraph-2563eb?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CrewAI-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenAI_API-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+
+</p>
+
+---
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
+
+</p>
+
+---
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
+
+</p>
+
+---
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=firebase,sqlite,mongodb"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/ChromaDB-2563eb?style=for-the-badge"/>
+
+</p>
+
+---
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
+
+</p>
+
+</div>
+
+---
+
+# 🎯 Core Expertise
+
+| Domain | Technologies |
+|:-------|:-------------|
+| 🤖 Generative AI | OpenAI, Gemini, Ollama |
+| 🧠 LLM Engineering | LangChain, LangGraph, CrewAI |
+| 📚 RAG | ChromaDB, Embeddings, Vector Search |
+| 💬 NLP | Transformers, Prompt Engineering |
+| 👁 Computer Vision | TensorFlow, CNN, EfficientNet |
+| 🌐 Full Stack AI | FastAPI, Next.js, React |
+| ⚡ Backend | Python, REST APIs |
+| ☁ Deployment | Docker, GitHub |
+
+---
+
+# 📊 Skill Proficiency
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🐍 Python
+
+██████████████████████░ 95%
+
+</td>
+
+<td width="50%">
+
+### 🤖 LLM Engineering
+
+████████████████████░░ 92%
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### ⚡ LangGraph
+
+███████████████████░░░ 90%
+
+</td>
+
+<td>
+
+### 📚 RAG
+
+███████████████████░░░ 90%
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🚀 FastAPI
+
+██████████████████░░░░ 88%
+
+</td>
+
+<td>
+
+### 💻 Next.js
+
+█████████████████░░░░░ 85%
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🧠 TensorFlow
+
+█████████████████░░░░░ 85%
+
+</td>
+
+<td>
+
+### 🐳 Docker
+
+███████████████░░░░░░░ 80%
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ⚡ AI Workflow
+
+```text
+Problem
+   │
+   ▼
+Data Collection
+   │
+   ▼
+Preprocessing
+   │
+   ▼
+Model Training
+   │
+   ▼
+Evaluation
+   │
+   ▼
+LLM Integration
+   │
+   ▼
+LangGraph Workflow
+   │
+   ▼
+FastAPI Backend
+   │
+   ▼
+Deployment
+```
+
+---
+
+# 💡 Engineering Philosophy
+
+> **"Write code that solves problems, not code that only works."**
+
+> **"AI should augment human intelligence, not replace it."**
+
+> **"Keep learning. Keep building. Keep shipping."**
+
+---
+
+<div align="center">
+
+### ⚙️ Turning Ideas into Intelligent Products ⚙️
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:0f172a&height=2"/>
+
