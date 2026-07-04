@@ -710,32 +710,6 @@ https://github.com/danyaldany/blog-writing-agent
 
 ---
 
-# 📌 GitHub Profile Summary
-
-| 📊 Metric | Status |
-|-----------|--------|
-| 🧠 AI Projects | Growing 🚀 |
-| 💻 Total Repositories | 20+ |
-| 🤖 LLM Projects | 6+ |
-| 🌟 Open Source | Active |
-| 🔥 Contributions | Daily |
-| 📚 Learning | Every Day |
-
----
-
-# 📅 2026 Goals
-
-- ✅ Build 10+ Production AI Projects
-- ✅ Contribute to Open Source
-- ✅ Publish AI Research
-- ✅ Master Agentic AI
-- ✅ Learn Kubernetes
-- ✅ Deploy Enterprise AI Systems
-- ✅ Reach 500+ GitHub Stars
-- ✅ Become AI Engineer
-
----
-
 <div align="center">
 
 ## 💙 "Consistency beats intensity."
