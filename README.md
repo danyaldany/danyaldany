@@ -35,8 +35,6 @@
 
 </div>
 
----
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=danyaldany&style=for-the-badge&color=0e75b6"/>
@@ -652,14 +650,98 @@ https://github.com/danyaldany/blog-writing-agent
 █████████████████░░░ 85%
 ```
 
+<!-- ======================================================== -->
+<!--                  GITHUB ANALYTICS                        -->
+<!-- ======================================================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+### 📈 GitHub Statistics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danyaldany&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyaldany&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
 ---
 
 <div align="center">
 
-## 🚀 More AI Projects Coming Soon...
+### 🔥 GitHub Streak
 
-⭐ If you like my work, don't forget to star my repositories!
+<img src="https://streak-stats.demolab.com?user=danyaldany&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=danyaldany&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=danyaldany&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Contribution Snake
+
+<img src="https://raw.githubusercontent.com/danyaldany/danyaldany/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+---
+
+# 📌 GitHub Profile Summary
+
+| 📊 Metric | Status |
+|-----------|--------|
+| 🧠 AI Projects | Growing 🚀 |
+| 💻 Total Repositories | 20+ |
+| 🤖 LLM Projects | 6+ |
+| 🌟 Open Source | Active |
+| 🔥 Contributions | Daily |
+| 📚 Learning | Every Day |
+
+---
+
+# 📅 2026 Goals
+
+- ✅ Build 10+ Production AI Projects
+- ✅ Contribute to Open Source
+- ✅ Publish AI Research
+- ✅ Master Agentic AI
+- ✅ Learn Kubernetes
+- ✅ Deploy Enterprise AI Systems
+- ✅ Reach 500+ GitHub Stars
+- ✅ Become AI Engineer
+
+---
+
+<div align="center">
+
+## 💙 "Consistency beats intensity."
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:0f172a&height=2"/>
+
+
