@@ -13,11 +13,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Danyal+Arshad;Generative+AI+Engineer;Agentic+AI+Developer;LangChain+%7C+LangGraph+%7C+CrewAI;Building+Production+Ready+AI+Systems;Always+Learning+New+Things+🚀" />
 </p>
 
----
-
 <div align="center">
 
-<a href="https://portfolio.com">
+<a href="https://danyal-arshad.netlify.app/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-2563eb?style=for-the-badge"/>
 </a>
 
@@ -25,7 +23,7 @@
 <img src="https://img.shields.io/badge/📧_Email-Contact-red?style=for-the-badge"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/danyal-arshad-20310a31b/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -49,250 +47,76 @@
 
 </p>
 
----
-
-<!-- ======================================================== -->
-<!--                     ABOUT ME                             -->
-<!-- ======================================================== -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
 
 # 🧠 Who Am I
 
-<div align="center">
-
-*"I build AI systems that solve real-world problems using LLMs, Agentic AI, RAG, and Deep Learning."*
-
-</div>
-
-<br>
-
 ```javascript
 const danyal = {
-
-    name: "Danyal Arshad",
-
-    location: "Swabi, KPK, Pakistan 🇵🇰",
-
-    role: "AI & Machine Learning Engineer",
-
-    education: {
-        degree: "BS Computer Science",
-        university: "Abdul Wali Khan University Mardan",
-        cgpa: "3.67 / 4.00"
-    },
-
-    specialization: [
-
-        "Generative AI",
-
-        "Agentic AI",
-
-        "Large Language Models",
-
-        "RAG Pipelines",
-
-        "Natural Language Processing",
-
-        "Computer Vision",
-
-        "Deep Learning"
-
-    ],
-
-    frameworks: [
-
-        "LangChain",
-
-        "LangGraph",
-
-        "CrewAI",
-
-        "FastAPI",
-
-        "TensorFlow",
-
-        "PyTorch"
-
-    ],
-
-    databases: [
-
-        "ChromaDB",
-
-        "SQLite",
-
-        "Firebase"
-
-    ],
-
-    languages: [
-
-        "Python",
-
-        "JavaScript",
-
-        "Java",
-
-        "C++"
-
-    ],
-
-    currentFocus: [
-
-        "Multi-Agent Systems",
-
-        "LLM Applications",
-
-        "Production AI",
-
-        "Model Context Protocol",
-
-        "AI Automation"
-
-    ],
-
-    openTo: [
-
-        "AI Internship",
-
-        "Research Collaboration",
-
-        "Open Source",
-
-        "Freelance AI Projects"
-
-    ],
-
-    hobbies: [
-
-        "Building AI Products",
-
-        "Reading AI Papers",
-
-        "Open Source",
-
-        "Learning New Technologies"
-
-    ],
-
-    motto:
-
-    "Turning Ideas into Intelligent Systems 🚀"
-
+  location      : "Swabi, KPK, Pakistan 🇵🇰",
+  role          : "AI & Machine Learning Engineer",
+  education     : "BS Computer Science — Abdul Wali Khan University Mardan (CGPA 3.67/4.00)",
+  specialization: ["Generative AI", "Agentic AI", "RAG Pipelines", "NLP", "Computer Vision"],
+  frameworks    : ["LangChain", "LangGraph", "CrewAI", "FastAPI", "TensorFlow", "PyTorch"],
+  currentFocus  : ["Multi-Agent Systems", "LLM Applications", "Model Context Protocol"],
+  openTo        : ["AI Internship", "Research Collaboration", "Freelance AI Projects"],
+  funFact       : "I enjoy building intelligent AI agents more than traditional CRUD apps 🤖",
+  motto         : "Turning ideas into intelligent systems 🚀",
+  contact       : "danyaldani218@gmail.com",
+  portfolio     : "https://danyal-arshad.netlify.app/",
 };
 ```
 
+---
 
-# ❤️ Fun Fact
+# 💡 Dev Philosophy
 
-> 💡 I enjoy building intelligent AI agents more than traditional CRUD applications.
+> Ship things that reason, not just things that run. Good AI systems aren't chains of API calls — they're architectures that know when to think, when to act, and when to ask.
 
 ---
 
-# ☕ Daily Motivation
+# ✍️ Quote of the Day
 
-> **"The best way to predict the future is to invent it."** — Alan Kay
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&quote=The+best+way+to+predict+the+future+is+to+invent+it&author=Alan+Kay" alt="Quote of the day"/>
+</p>
 
 ---
-
-<div align="center">
-
-## ⚡ Always Learning • Always Building • Always Improving ⚡
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:0f172a&height=2"/>
-
-<!-- ======================================================== -->
-<!--                     TECH STACK                           -->
-<!-- ======================================================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
 
 # 💻 Tech Stack
 
 <div align="center">
 
 ### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
-</p>
-
----
+<p><img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" /></p>
 
 ### AI • Machine Learning • LLM
-
+<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /></p>
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-<p>
-
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/LangGraph-2563eb?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/CrewAI-7C3AED?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/OpenAI_API-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
-
 </p>
-
----
 
 ### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
-
-</p>
-
----
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/></p>
 
 ### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
-
-</p>
-
----
+<p><img src="https://skillicons.dev/icons?i=fastapi,nodejs"/></p>
 
 ### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=firebase,sqlite,mongodb"/>
-
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/ChromaDB-2563eb?style=for-the-badge"/>
-
-</p>
-
----
+<p><img src="https://skillicons.dev/icons?i=firebase,sqlite,mongodb"/></p>
+<p><img src="https://img.shields.io/badge/ChromaDB-2563eb?style=for-the-badge"/></p>
 
 ### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
-
-</p>
+<p><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/></p>
 
 </div>
 
@@ -316,87 +140,62 @@ const danyal = {
 # 📊 Skill Proficiency
 
 <table>
-
 <tr>
-
 <td width="50%">
 
 ### 🐍 Python
-
 ██████████████████████░ 95%
 
 </td>
-
 <td width="50%">
 
 ### 🤖 LLM Engineering
-
 ████████████████████░░ 92%
 
 </td>
-
 </tr>
-
 <tr>
-
 <td>
 
 ### ⚡ LangGraph
-
 ███████████████████░░░ 90%
 
 </td>
-
 <td>
 
 ### 📚 RAG
-
 ███████████████████░░░ 90%
 
 </td>
-
 </tr>
-
 <tr>
-
 <td>
 
 ### 🚀 FastAPI
-
 ██████████████████░░░░ 88%
 
 </td>
-
 <td>
 
 ### 💻 Next.js
-
 █████████████████░░░░░ 85%
 
 </td>
-
 </tr>
-
 <tr>
-
 <td>
 
 ### 🧠 TensorFlow
-
 █████████████████░░░░░ 85%
 
 </td>
-
 <td>
 
 ### 🐳 Docker
-
 ███████████████░░░░░░░ 80%
 
 </td>
-
 </tr>
-
 </table>
 
 ---
@@ -404,20 +203,11 @@ const danyal = {
 # 💼 Currently Building
 
 ```text
-🤖 Multi-Agent AI Systems
-████████████████████ 100%
-
-📚 RAG Applications
-███████████████████░ 95%
-
-🧠 LLM Engineering
-██████████████████░░ 90%
-
-⚡ AI Automation
-█████████████████░░░ 85%
-
-🌐 Production AI Platforms
-█████████████████░░░ 85%
+🤖 Multi-Agent AI Systems      ████████████████████ 100%
+📚 RAG Applications            ███████████████████░ 95%
+🧠 LLM Engineering             ██████████████████░░ 90%
+⚡ AI Automation               █████████████████░░░ 85%
+🌐 Production AI Platforms     █████████████████░░░ 85%
 ```
 
 ---
@@ -430,4 +220,4 @@ const danyal = {
 
 </div>
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:0f172a&height=2"/>
