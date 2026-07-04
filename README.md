@@ -9,20 +9,10 @@
 
 </div>
 
-<div align="center">
-
-# 👋 Hi, I'm Danyal Arshad
-
-### AI & Machine Learning Engineer
-
-### Generative AI • Agentic AI • LLMs • RAG • NLP • Computer Vision
-
-</div>
-
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Generative+AI+Engineer;Agentic+AI+Developer;LangChain+%7C+LangGraph+%7C+CrewAI;Building+Production+Ready+AI+Systems;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+DanyalArshad;Generative+AI+Engineer;Agentic+AI+Developer;LangChain+%7C+LangGraph+%7C+CrewAI;Building+Production+Ready+AI+Systems;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
@@ -129,24 +119,7 @@ CSS
 
 </div>
 
----
 
-# ⚡ Quick Highlights
-
-| 🚀 | Details |
-|-----|---------|
-| 🎓 | BS Computer Science |
-| 🤖 | AI & Machine Learning Engineer |
-| 🧠 | Generative AI |
-| ⚙️ | Agentic AI |
-| 🔥 | LangGraph Expert |
-| 📚 | RAG Pipelines |
-| 🧩 | LLM Applications |
-| 👨‍💻 | FastAPI Developer |
-| 🌍 | Pakistan 🇵🇰 |
-| 💬 | Always open for collaboration |
-
----
 
 <!-- ======================================================== -->
 <!--                     ABOUT ME                             -->
@@ -280,49 +253,6 @@ const danyal = {
 };
 ```
 
----
-
-# 🚀 Current Focus
-
-| 🎯 | Working On |
-|:--|:------------------------------|
-| 🤖 | Agentic AI Systems |
-| 🧠 | Large Language Models |
-| ⚡ | LangGraph Workflows |
-| 📚 | Retrieval-Augmented Generation |
-| 🔥 | Production FastAPI Backends |
-| 🌐 | Full Stack AI Applications |
-
----
-
-# 🌱 Currently Learning
-
-```text
-████████████████████░░ 90%  LangGraph
-
-███████████████████░░░ 85%  Multi-Agent AI
-
-██████████████████░░░░ 80%  MCP
-
-█████████████████░░░░░ 78%  Fine-Tuning LLMs
-
-████████████████░░░░░░ 75%  Kubernetes
-```
-
----
-
-# 🏆 Achievements
-
-| 🏅 Achievement | Status |
-|----------------|--------|
-| 🚀 Completed 6+ End-to-End AI Projects | ✅ |
-| 🤖 Built Production-ready Agentic AI Systems | ✅ |
-| 🧠 Developed RAG Applications | ✅ |
-| 📚 Machine Learning Specialization | ✅ |
-| 💻 Open Source Contributor | ✅ |
-| 🎯 AI/ML Internship Experience | ✅ |
-
----
 
 # ❤️ Fun Fact
 
@@ -630,60 +560,6 @@ Deployment
 
 https://github.com/danyaldany
 
----
-
-## 🤖 AgentBI
-
-### Multi-Agent Autonomous Business Intelligence System
-
-![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=flat-square)
-
-![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square)
-
-![Ollama](https://img.shields.io/badge/Ollama-grey?style=flat-square)
-
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
-
-### ✨ Features
-
-- Planner Agent
-- Analyst Agent
-- Critic Agent
-- Validation Agent
-- Self-Correction Loop
-- Autonomous Decision Making
-
-🔗 **Repository**
-
-https://github.com/danyaldany
-
----
-
-## 🌾 AgriGuard
-
-### Agentic Crop Disease Detection & Advisory System
-
-![EfficientNet](https://img.shields.io/badge/EfficientNet-success?style=flat-square)
-
-![Gemini API](https://img.shields.io/badge/Gemini-4285F4?style=flat-square)
-
-![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=flat-square)
-
-![RAG](https://img.shields.io/badge/RAG-green?style=flat-square)
-
-### ✨ Features
-
-- Disease Detection
-- AI Advisory
-- RAG Knowledge Base
-- Gemini API
-- Farmer Friendly Interface
-
-🔗 **Repository**
-
-https://github.com/danyaldany
-
----
 
 ## 🧠 Brain MRI Tumor Detection
 
@@ -756,19 +632,6 @@ https://github.com/danyaldany/langchain_chatbot
 🔗 Repository
 
 https://github.com/danyaldany/blog-writing-agent
-
----
-
-# 📈 Project Summary
-
-| Category | Count |
-|-----------|------:|
-| 🤖 AI Projects | 6+ |
-| 🧠 LLM Applications | 4+ |
-| 📚 RAG Systems | 2+ |
-| 👁 Computer Vision | 2 |
-| 🌐 Full Stack AI Apps | 3+ |
-| ⚡ FastAPI Projects | 4+ |
 
 ---
 
