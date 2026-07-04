@@ -1,63 +1,41 @@
 <!-- ========================================================= -->
-<!--                  DANYAL ARSHAD                            -->
-<!--          AI • MACHINE LEARNING ENGINEER                   -->
+<!--                     DANYAL ARSHAD                         -->
+<!--         AI • MACHINE LEARNING ENGINEER PROFILE           -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<h1>Danyal Arshad</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:2563eb,100:7c3aed&text=Danyal%20Arshad&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20Engineer%20%7C%20Generative%20AI&descAlignY=58"/>
 
-<h3>
-AI • Machine Learning Engineer
-</h3>
+</div>
 
-<p>
-
-Building production-ready AI systems using
-
-<b>LLMs</b> •
-<b>Agentic AI</b> •
-<b>RAG</b> •
-<b>NLP</b> •
-<b>Computer Vision</b>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Danyal+Arshad;Generative+AI+Engineer;Agentic+AI+Developer;LangChain+%7C+LangGraph+%7C+CrewAI;Building+Production+Ready+AI+Systems;Always+Learning+New+Things+🚀" />
 </p>
 
-</div>
-
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Production+Ready+AI+Systems;Generative+AI+Engineer;Agentic+AI+Developer;LLM+Application+Builder;FastAPI+%7C+LangGraph+%7C+TensorFlow;Always+Learning+Something+New"/>
-
-</div>
-
----
-
-<div align="center">
-
-<a href="https://danyal-arshad.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/danyaldany">
-<img src="https://img.shields.io/badge/GitHub-danyaldany-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/danyal-arshad-20310a31b/">
-<img src="https://img.shields.io/badge/LinkedIn-Danyal%20Arshad-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://portfolio.com">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-2563eb?style=for-the-badge"/>
 </a>
 
 <a href="mailto:danyaldani218@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/📧_Email-Contact-red?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/danyaldany">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
----
-
-<div align="center">
+<p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=danyaldany&style=for-the-badge&color=0e75b6"/>
 
@@ -65,67 +43,42 @@ Building production-ready AI systems using
 
 <img src="https://img.shields.io/github/stars/danyaldany?style=for-the-badge"/>
 
-</div>
+<img src="https://img.shields.io/badge/Open%20To-Collaborate-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Location-Pakistan-success?style=for-the-badge&logo=googlemaps"/>
+
+</p>
 
 ---
 
-# About Me
-
-I'm an **AI & Machine Learning Engineer** passionate about building intelligent software that goes beyond traditional applications.
-
-My interests focus on designing **production-ready AI systems** powered by:
-
-- Large Language Models
-- Agentic AI
-- Retrieval-Augmented Generation (RAG)
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-
-I enjoy transforming research ideas into practical products that people can actually use.
-
----
-
-## Current Focus
-
-- 🤖 Agentic AI Systems
-- 🧠 LLM Engineering
-- ⚡ LangGraph Workflows
-- 📚 RAG Pipelines
-- 🚀 FastAPI APIs
-- 💻 Full Stack AI Applications
-
----
-
-## Tech Highlights
+# 🚀 Building Intelligent Systems
 
 <table>
-
 <tr>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-<h3>AI</h3>
+## 🤖 AI
 
 LLMs
 
-LangChain
+RAG
 
 LangGraph
 
 CrewAI
 
-RAG
+Agentic AI
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-<h3>Backend</h3>
-
-Python
+## ⚡ Backend
 
 FastAPI
+
+Python
 
 REST APIs
 
@@ -135,15 +88,15 @@ Firebase
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-<h3>Frontend</h3>
+## 💻 Frontend
 
 Next.js
 
 React
 
-Tailwind CSS
+TailwindCSS
 
 HTML
 
@@ -152,55 +105,299 @@ CSS
 </td>
 
 </tr>
-
 </table>
-
----
-
-## Engineering Philosophy
-
-> Build software that solves real problems.
-
-> Keep learning.
-
-> Ship consistently.
 
 ---
 
 <div align="center">
 
-### Turning AI ideas into production-ready intelligent systems.
+> ### *"Turning AI ideas into production-ready intelligent systems."*
+
+</div>
+
+
+
+<!-- ======================================================== -->
+<!--                     ABOUT ME                             -->
+<!-- ======================================================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
+
+# 🧠 Who Am I
+
+<div align="center">
+
+*"I build AI systems that solve real-world problems using LLMs, Agentic AI, RAG, and Deep Learning."*
+
+</div>
+
+<br>
+
+```javascript
+const danyal = {
+
+    name: "Danyal Arshad",
+
+    location: "Swabi, KPK, Pakistan 🇵🇰",
+
+    role: "AI & Machine Learning Engineer",
+
+    education: {
+        degree: "BS Computer Science",
+        university: "Abdul Wali Khan University Mardan",
+        cgpa: "3.67 / 4.00"
+    },
+
+    specialization: [
+
+        "Generative AI",
+
+        "Agentic AI",
+
+        "Large Language Models",
+
+        "RAG Pipelines",
+
+        "Natural Language Processing",
+
+        "Computer Vision",
+
+        "Deep Learning"
+
+    ],
+
+    frameworks: [
+
+        "LangChain",
+
+        "LangGraph",
+
+        "CrewAI",
+
+        "FastAPI",
+
+        "TensorFlow",
+
+        "PyTorch"
+
+    ],
+
+    databases: [
+
+        "ChromaDB",
+
+        "SQLite",
+
+        "Firebase"
+
+    ],
+
+    languages: [
+
+        "Python",
+
+        "JavaScript",
+
+        "Java",
+
+        "C++"
+
+    ],
+
+    currentFocus: [
+
+        "Multi-Agent Systems",
+
+        "LLM Applications",
+
+        "Production AI",
+
+        "Model Context Protocol",
+
+        "AI Automation"
+
+    ],
+
+    openTo: [
+
+        "AI Internship",
+
+        "Research Collaboration",
+
+        "Open Source",
+
+        "Freelance AI Projects"
+
+    ],
+
+    hobbies: [
+
+        "Building AI Products",
+
+        "Reading AI Papers",
+
+        "Open Source",
+
+        "Learning New Technologies"
+
+    ],
+
+    motto:
+
+    "Turning Ideas into Intelligent Systems 🚀"
+
+};
+```
+
+
+# ❤️ Fun Fact
+
+> 💡 I enjoy building intelligent AI agents more than traditional CRUD applications.
+
+---
+
+# ☕ Daily Motivation
+
+> **"The best way to predict the future is to invent it."** — Alan Kay
+
+---
+
+<div align="center">
+
+## ⚡ Always Learning • Always Building • Always Improving ⚡
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:0f172a&height=2"/>
+
+<!-- ======================================================== -->
+<!--                     TECH STACK                           -->
+<!-- ======================================================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
+</p>
+
+---
+
+### AI • Machine Learning • LLM
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangGraph-2563eb?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CrewAI-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenAI_API-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+
+</p>
+
+---
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
+
+</p>
+
+---
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
+
+</p>
+
+---
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=firebase,sqlite,mongodb"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/ChromaDB-2563eb?style=for-the-badge"/>
+
+</p>
+
+---
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
+
+</p>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                     EXPERIENCE                            -->
-<!-- ========================================================= -->
+# 🎯 Core Expertise
 
-# Experience
+| Domain | Technologies |
+|:-------|:-------------|
+| 🤖 Generative AI | OpenAI, Gemini, Ollama |
+| 🧠 LLM Engineering | LangChain, LangGraph, CrewAI |
+| 📚 RAG | ChromaDB, Embeddings, Vector Search |
+| 💬 NLP | Transformers, Prompt Engineering |
+| 👁 Computer Vision | TensorFlow, CNN, EfficientNet |
+| 🌐 Full Stack AI | FastAPI, Next.js, React |
+| ⚡ Backend | Python, REST APIs |
+| ☁ Deployment | Docker, GitHub |
+
+---
+
+# 📊 Skill Proficiency
 
 <table>
+
 <tr>
 
-<td width="80">
+<td width="50%">
 
-<h3>💼</h3>
+### 🐍 Python
+
+██████████████████████░ 95%
 
 </td>
 
-<td>
+<td width="50%">
 
-### AI & Machine Learning Intern
+### 🤖 LLM Engineering
 
-**Code Alpha** • Remote
-
-Built machine learning solutions including credit scoring systems, predictive models, and recommendation engines using Python and Scikit-learn. Worked across the complete ML lifecycle including preprocessing, model training, evaluation, and deployment while communicating insights through performance metrics.
-
-**Technologies**
-
-`Python` `Scikit-learn` `NumPy` `Pandas`
+████████████████████░░ 92%
 
 </td>
 
@@ -210,24 +407,57 @@ Built machine learning solutions including credit scoring systems, predictive mo
 
 <td>
 
-<h3>🤖</h3>
+### ⚡ LangGraph
+
+███████████████████░░░ 90%
 
 </td>
 
 <td>
 
-### Machine Learning Intern
+### 📚 RAG
 
-**IT Solera** • Remote
+███████████████████░░░ 90%
 
-Developed an image classification pipeline for crop disease detection using classical machine learning techniques. Designed preprocessing workflows, evaluated multiple algorithms, and built a rule-based AI chatbot to strengthen conversational AI fundamentals.
+</td>
 
-**Technologies**
+</tr>
 
-`Python`
-`Machine Learning`
-`Computer Vision`
-`Scikit-learn`
+<tr>
+
+<td>
+
+### 🚀 FastAPI
+
+██████████████████░░░░ 88%
+
+</td>
+
+<td>
+
+### 💻 Next.js
+
+█████████████████░░░░░ 85%
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🧠 TensorFlow
+
+█████████████████░░░░░ 85%
+
+</td>
+
+<td>
+
+### 🐳 Docker
+
+███████████████░░░░░░░ 80%
 
 </td>
 
@@ -237,313 +467,150 @@ Developed an image classification pipeline for crop disease detection using clas
 
 ---
 
-# Education
-
-<table>
-
-<tr>
-
-<td width="90">
-
-🎓
-
-</td>
-
-<td>
-
-## Bachelor of Science in Computer Science
-
-**Abdul Wali Khan University Mardan**
-
-CGPA **3.67 / 4.00**
-
-Expected Graduation **2027**
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# What I Build
-
-<table>
-
-<tr>
-
-<td align="center" width="33%">
-
-### 🤖 AI Agents
-
-Autonomous
-
-Multi-Agent
-
-Reasoning
-
-Planning
-
-Tool Calling
-
-</td>
-
-<td align="center" width="33%">
-
-### 🧠 LLM Apps
-
-Chatbots
-
-RAG
-
-Prompt Engineering
-
-Memory
-
-Embeddings
-
-</td>
-
-<td align="center" width="33%">
-
-### 🚀 Full Stack AI
-
-FastAPI
-
-Next.js
-
-React
-
-REST APIs
-
-Deployment
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# Core Expertise
-
-| Area | Level |
-|-------|------|
-| Generative AI | ⭐⭐⭐⭐⭐ |
-| Agentic AI | ⭐⭐⭐⭐⭐ |
-| LangGraph | ⭐⭐⭐⭐⭐ |
-| LangChain | ⭐⭐⭐⭐⭐ |
-| FastAPI | ⭐⭐⭐⭐☆ |
-| TensorFlow | ⭐⭐⭐⭐☆ |
-| Computer Vision | ⭐⭐⭐⭐☆ |
-| NLP | ⭐⭐⭐⭐☆ |
-| Python | ⭐⭐⭐⭐⭐ |
-
----
-
-# Current Mission
+# ⚡ AI Workflow
 
 ```text
-Design AI systems that are
-
-✓ Intelligent
-
-✓ Reliable
-
-✓ Production Ready
-
-✓ Scalable
-
-✓ Human-Centered
+Problem
+   │
+   ▼
+Data Collection
+   │
+   ▼
+Preprocessing
+   │
+   ▼
+Model Training
+   │
+   ▼
+Evaluation
+   │
+   ▼
+LLM Integration
+   │
+   ▼
+LangGraph Workflow
+   │
+   ▼
+FastAPI Backend
+   │
+   ▼
+Deployment
 ```
 
 ---
 
-<div align="center">
+# 💡 Engineering Philosophy
 
-## "The future belongs to engineers who can combine software with intelligence."
+> **"Write code that solves problems, not code that only works."**
 
-</div>
+> **"AI should augment human intelligence, not replace it."**
 
----
-
-<!-- ========================================================= -->
-<!--                  FEATURED PROJECTS                        -->
-<!-- ========================================================= -->
-
-# 🚀 Featured Projects
-
-<p align="center">
-
-<i>
-A selection of projects demonstrating my work in Generative AI,
-Large Language Models, Deep Learning, and Full-Stack AI Engineering.
-</i>
-
-</p>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🤖 PromptForge
-
-### AI Prompt Engineering Platform
-
-Production-ready platform for evaluating and improving AI prompts using
-DistilBERT, semantic search and modern full-stack architecture.
-
-### Tech Stack
-
-`Python`
-`FastAPI`
-`Next.js`
-`DistilBERT`
-`ChromaDB`
-
-### Highlights
-
-- Prompt Quality Analysis
-- AI Prompt Scoring
-- Semantic Search
-- AI Consultant
-- Modern Responsive UI
-
-<br>
-
-<a href="https://github.com/danyaldany">
-
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💬 Agentic AI Chatbot
-
-### Persistent Memory + Tool Calling
-
-A production-style AI assistant capable of contextual conversations,
-persistent memory and intelligent tool orchestration.
-
-### Tech Stack
-
-`LangGraph`
-
-`LangChain`
-
-`FastAPI`
-
-`SQLite`
-
-`Python`
-
-### Highlights
-
-- Persistent Memory
-- Tool Calling
-- Calculator Tool
-- Stock API
-- Multi-Agent Workflow
-- Context Awareness
-
-<br>
-
-<a href="https://github.com/danyaldany/langchain_chatbot">
-
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td>
-
-## 🧠 Brain MRI Tumor Detection
-
-### AI-powered Medical Imaging System
-
-Deep learning system for automated brain tumor classification from MRI
-images using TensorFlow and CNN architecture.
-
-### Tech Stack
-
-`TensorFlow`
-
-`CNN`
-
-`Python`
-
-`Deep Learning`
-
-### Highlights
-
-- MRI Classification
-- CNN Architecture
-- Image Augmentation
-- 90% Validation Accuracy
-- Real-Time Prediction
-
-<br>
-
-<a href="https://github.com/danyaldany/cancer_disease_prediction">
-
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
+> **"Keep learning. Keep building. Keep shipping."**
 
 ---
 
 <div align="center">
 
-### 💡 More AI projects are available on my GitHub profile.
+### ⚙️ Turning Ideas into Intelligent Products ⚙️
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:0f172a&height=2"/>
+
+
+<!-- ======================================================== -->
+<!--                  FEATURED PROJECTS                       -->
+<!-- ======================================================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
+
+
+# 💼 Currently Building
+
+```text
+🤖 Multi-Agent AI Systems
+████████████████████ 100%
+
+📚 RAG Applications
+███████████████████░ 95%
+
+🧠 LLM Engineering
+██████████████████░░ 90%
+
+⚡ AI Automation
+█████████████████░░░ 85%
+
+🌐 Production AI Platforms
+█████████████████░░░ 85%
+```
+
+<!-- ======================================================== -->
+<!--                  GITHUB ANALYTICS                        -->
+<!-- ======================================================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=danyaldany&show_icons=true&theme=github_dark&hide_border=true"/>
+### 📈 GitHub Statistics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyaldany&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danyaldany&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
 
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyaldany&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 
-<p align="center">
+</div>
 
-<img src="https://streak-stats.demolab.com?user=danyaldany&theme=github-dark-blue&hide_border=true"/>
+---
 
-</p>
+<div align="center">
 
-<p align="center">
+### 🔥 GitHub Streak
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danyaldany&theme=github-dark"/>
+<img src="https://streak-stats.demolab.com?user=danyaldany&theme=tokyonight&hide_border=true&border_radius=12"/>
 
-</p>
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=danyaldany&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=danyaldany&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Contribution Snake
+
+<img src="https://raw.githubusercontent.com/danyaldany/danyaldany/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 "Consistency beats intensity."
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:0f172a&height=2"/>
+
+
+
