@@ -148,10 +148,198 @@ CSS
 
 ---
 
+<!-- ======================================================== -->
+<!--                     ABOUT ME                             -->
+<!-- ======================================================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
+
+# 🧠 Who Am I
+
 <div align="center">
 
-## ⭐ Scroll Down To Explore My AI Journey ⭐
+*"I build AI systems that solve real-world problems using LLMs, Agentic AI, RAG, and Deep Learning."*
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:2563eb&height=120&section=footer"/>
+<br>
+
+```javascript
+const danyal = {
+
+    name: "Danyal Arshad",
+
+    location: "Swabi, KPK, Pakistan 🇵🇰",
+
+    role: "AI & Machine Learning Engineer",
+
+    education: {
+        degree: "BS Computer Science",
+        university: "Abdul Wali Khan University Mardan",
+        cgpa: "3.67 / 4.00"
+    },
+
+    specialization: [
+
+        "Generative AI",
+
+        "Agentic AI",
+
+        "Large Language Models",
+
+        "RAG Pipelines",
+
+        "Natural Language Processing",
+
+        "Computer Vision",
+
+        "Deep Learning"
+
+    ],
+
+    frameworks: [
+
+        "LangChain",
+
+        "LangGraph",
+
+        "CrewAI",
+
+        "FastAPI",
+
+        "TensorFlow",
+
+        "PyTorch"
+
+    ],
+
+    databases: [
+
+        "ChromaDB",
+
+        "SQLite",
+
+        "Firebase"
+
+    ],
+
+    languages: [
+
+        "Python",
+
+        "JavaScript",
+
+        "Java",
+
+        "C++"
+
+    ],
+
+    currentFocus: [
+
+        "Multi-Agent Systems",
+
+        "LLM Applications",
+
+        "Production AI",
+
+        "Model Context Protocol",
+
+        "AI Automation"
+
+    ],
+
+    openTo: [
+
+        "AI Internship",
+
+        "Research Collaboration",
+
+        "Open Source",
+
+        "Freelance AI Projects"
+
+    ],
+
+    hobbies: [
+
+        "Building AI Products",
+
+        "Reading AI Papers",
+
+        "Open Source",
+
+        "Learning New Technologies"
+
+    ],
+
+    motto:
+
+    "Turning Ideas into Intelligent Systems 🚀"
+
+};
+```
+
+---
+
+# 🚀 Current Focus
+
+| 🎯 | Working On |
+|:--|:------------------------------|
+| 🤖 | Agentic AI Systems |
+| 🧠 | Large Language Models |
+| ⚡ | LangGraph Workflows |
+| 📚 | Retrieval-Augmented Generation |
+| 🔥 | Production FastAPI Backends |
+| 🌐 | Full Stack AI Applications |
+
+---
+
+# 🌱 Currently Learning
+
+```text
+████████████████████░░ 90%  LangGraph
+
+███████████████████░░░ 85%  Multi-Agent AI
+
+██████████████████░░░░ 80%  MCP
+
+█████████████████░░░░░ 78%  Fine-Tuning LLMs
+
+████████████████░░░░░░ 75%  Kubernetes
+```
+
+---
+
+# 🏆 Achievements
+
+| 🏅 Achievement | Status |
+|----------------|--------|
+| 🚀 Completed 6+ End-to-End AI Projects | ✅ |
+| 🤖 Built Production-ready Agentic AI Systems | ✅ |
+| 🧠 Developed RAG Applications | ✅ |
+| 📚 Machine Learning Specialization | ✅ |
+| 💻 Open Source Contributor | ✅ |
+| 🎯 AI/ML Internship Experience | ✅ |
+
+---
+
+# ❤️ Fun Fact
+
+> 💡 I enjoy building intelligent AI agents more than traditional CRUD applications.
+
+---
+
+# ☕ Daily Motivation
+
+> **"The best way to predict the future is to invent it."** — Alan Kay
+
+---
+
+<div align="center">
+
+## ⚡ Always Learning • Always Building • Always Improving ⚡
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:0f172a&height=2"/>
