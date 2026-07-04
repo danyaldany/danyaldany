@@ -9,10 +9,8 @@
 
 </div>
 
----
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+DanyalArshad;Generative+AI+Engineer;Agentic+AI+Developer;LangChain+%7C+LangGraph+%7C+CrewAI;Building+Production+Ready+AI+Systems;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Danyal+Arshad;Generative+AI+Engineer;Agentic+AI+Developer;LangChain+%7C+LangGraph+%7C+CrewAI;Building+Production+Ready+AI+Systems;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
