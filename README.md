@@ -92,6 +92,8 @@ const danyal = {
 ### Languages
 <p><img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" /></p>
 
+---
+
 ### AI • Machine Learning • LLM
 <p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /></p>
 <p>
@@ -105,15 +107,23 @@ const danyal = {
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
 </p>
 
+---
+
 ### Frontend
 <p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/></p>
+
+---
 
 ### Backend
 <p><img src="https://skillicons.dev/icons?i=fastapi,nodejs"/></p>
 
+---
+
 ### Database
 <p><img src="https://skillicons.dev/icons?i=firebase,sqlite,mongodb"/></p>
 <p><img src="https://img.shields.io/badge/ChromaDB-2563eb?style=for-the-badge"/></p>
+
+---
 
 ### Tools
 <p><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/></p>
