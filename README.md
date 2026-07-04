@@ -591,3 +591,214 @@ Deployment
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:0f172a&height=2"/>
 
+
+<!-- ======================================================== -->
+<!--                  FEATURED PROJECTS                       -->
+<!-- ======================================================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
+
+# 🚀 Featured AI Projects
+
+<div align="center">
+
+> ### 💡 Building Production-Ready AI Solutions with LLMs, RAG & Deep Learning
+
+</div>
+
+---
+
+## 🤖 PromptForge
+
+### AI Prompt Engineering Platform
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![DistilBERT](https://img.shields.io/badge/DistilBERT-yellow?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-blue?style=flat-square)
+
+### ✨ Features
+
+- Prompt Quality Analysis
+- AI Prompt Scoring
+- Semantic Search
+- AI Consultant Chat
+- Modern Glassmorphism UI
+
+🔗 **Repository**
+
+https://github.com/danyaldany
+
+---
+
+## 🤖 AgentBI
+
+### Multi-Agent Autonomous Business Intelligence System
+
+![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=flat-square)
+
+![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square)
+
+![Ollama](https://img.shields.io/badge/Ollama-grey?style=flat-square)
+
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
+
+### ✨ Features
+
+- Planner Agent
+- Analyst Agent
+- Critic Agent
+- Validation Agent
+- Self-Correction Loop
+- Autonomous Decision Making
+
+🔗 **Repository**
+
+https://github.com/danyaldany
+
+---
+
+## 🌾 AgriGuard
+
+### Agentic Crop Disease Detection & Advisory System
+
+![EfficientNet](https://img.shields.io/badge/EfficientNet-success?style=flat-square)
+
+![Gemini API](https://img.shields.io/badge/Gemini-4285F4?style=flat-square)
+
+![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=flat-square)
+
+![RAG](https://img.shields.io/badge/RAG-green?style=flat-square)
+
+### ✨ Features
+
+- Disease Detection
+- AI Advisory
+- RAG Knowledge Base
+- Gemini API
+- Farmer Friendly Interface
+
+🔗 **Repository**
+
+https://github.com/danyaldany
+
+---
+
+## 🧠 Brain MRI Tumor Detection
+
+### Deep Learning Medical Imaging
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat-square)
+
+![CNN](https://img.shields.io/badge/CNN-red?style=flat-square)
+
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
+
+### ✨ Features
+
+- CNN Classification
+- MRI Analysis
+- Medical AI
+- Real-Time Prediction
+
+🔗 Repository
+
+https://github.com/danyaldany/cancer_disease_prediction
+
+---
+
+## 💬 Agentic AI Chatbot
+
+### Persistent Memory + Tool Calling
+
+![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square)
+
+![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=flat-square)
+
+![SQLite](https://img.shields.io/badge/SQLite-blue?style=flat-square)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=flat-square)
+
+### ✨ Features
+
+- Persistent Memory
+- Tool Calling
+- Calculator
+- Stock Price API
+- Multi-turn Conversation
+- AI Reasoning
+
+🔗 Repository
+
+https://github.com/danyaldany/langchain_chatbot
+
+---
+
+## ✍️ AI Blog Writing Agent
+
+### Autonomous Multi-Agent Content Generator
+
+![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=flat-square)
+
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
+
+![LLM](https://img.shields.io/badge/LLM-purple?style=flat-square)
+
+### ✨ Features
+
+- Research Agent
+- Planner Agent
+- Writer Agent
+- Image Generation
+- Markdown Export
+
+🔗 Repository
+
+https://github.com/danyaldany/blog-writing-agent
+
+---
+
+# 📈 Project Summary
+
+| Category | Count |
+|-----------|------:|
+| 🤖 AI Projects | 6+ |
+| 🧠 LLM Applications | 4+ |
+| 📚 RAG Systems | 2+ |
+| 👁 Computer Vision | 2 |
+| 🌐 Full Stack AI Apps | 3+ |
+| ⚡ FastAPI Projects | 4+ |
+
+---
+
+# 💼 Currently Building
+
+```text
+🤖 Multi-Agent AI Systems
+████████████████████ 100%
+
+📚 RAG Applications
+███████████████████░ 95%
+
+🧠 LLM Engineering
+██████████████████░░ 90%
+
+⚡ AI Automation
+█████████████████░░░ 85%
+
+🌐 Production AI Platforms
+█████████████████░░░ 85%
+```
+
+---
+
+<div align="center">
+
+## 🚀 More AI Projects Coming Soon...
+
+⭐ If you like my work, don't forget to star my repositories!
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:0f172a&height=2"/>
